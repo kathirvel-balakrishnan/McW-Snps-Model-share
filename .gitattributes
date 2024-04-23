@@ -1,1 +1,2 @@
 bevformer_tiny_epoch_24_sim.onnx filter=lfs diff=lfs merge=lfs -text
+dynamo_resnet.onnx filter=lfs diff=lfs merge=lfs -text
