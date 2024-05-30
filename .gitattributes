@@ -6,3 +6,4 @@ fadnet.pth filter=lfs diff=lfs merge=lfs -text
 disp filter=lfs diff=lfs merge=lfs -text
 im filter=lfs diff=lfs merge=lfs -text
 DDRNet23s_imagenet.pth filter=lfs diff=lfs merge=lfs -text
+retinanet_baseline_model.onnx filter=lfs diff=lfs merge=lfs -text
