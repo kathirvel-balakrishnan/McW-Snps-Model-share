@@ -10,3 +10,4 @@ retinanet_baseline_model.onnx filter=lfs diff=lfs merge=lfs -text
 bevformer_tiny_epoch_24_10_6.onnx filter=lfs diff=lfs merge=lfs -text
 retinanet_800_800_heads.onnx filter=lfs diff=lfs merge=lfs -text
 retinanet_dynamic.onnx filter=lfs diff=lfs merge=lfs -text
+bevformer_tiny_epoch_24_13_6.onnx filter=lfs diff=lfs merge=lfs -text
